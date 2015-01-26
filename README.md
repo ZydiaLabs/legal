@@ -1,0 +1,3 @@
+This repository contains paper work used at Zydialabs. Feel free to use it if you need a template to start.
+
+We are not a lawyers, and we make no promises that this contract will work for you. This is just a **TEMPLATE** that is useds at ZydiaLabs and it's modified when it's necessary. We assume no responsibility for any legal or other issues you may face as a result of using this contract templates.
